@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3b1166b-4b26-4878-909a-e65ceff7548d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2TVxn8gBagjALGruN56Nqlwjocz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/images/png" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\Mi Note pro\Desktop\kanat\effafa\frontend\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="ts.external.directory.path" value="C:\Users\Mi Note pro\Desktop\kanat\effafa\frontend\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mi Note pro\Desktop\kanat\effafa\frontend\public\images\png" />
+      <recent name="C:\Users\Mi Note pro\Desktop\kanat\effafa\frontend\public\images\svg\projectGoal" />
+      <recent name="C:\Users\Mi Note pro\Desktop\kanat\effafa\frontend\public\images\svg\childrenClub" />
+      <recent name="C:\Users\Mi Note pro\Desktop\kanat\effafa\frontend\public\images\png\psychologicalPhoto" />
+      <recent name="C:\Users\Mi Note pro\Desktop\kanat\effafa\frontend\public\images\svg\flags" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mi Note pro\Desktop\kanat\effafa\frontend\public\images\svg\signs" />
+      <recent name="C:\Users\Mi Note pro\Desktop\kanat\effafa\frontend\public\images\svg" />
+      <recent name="C:\Users\Mi Note pro\Desktop\kanat\effafa\frontend\src\components\ui" />
+      <recent name="C:\Users\Mi Note pro\Desktop\kanat\effafa\frontend\src\components\pages\home" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3b1166b-4b26-4878-909a-e65ceff7548d" name="Default Changelist" comment="" />
+      <created>1691142214405</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691142214405</updated>
+      <workItem from="1691142215611" duration="6350000" />
+      <workItem from="1691381607170" duration="18896000" />
+      <workItem from="1691402633955" duration="7092000" />
+      <workItem from="1691470572912" duration="18130000" />
+      <workItem from="1691556736927" duration="3584000" />
+      <workItem from="1691560394473" duration="188000" />
+      <workItem from="1691560598815" duration="4862000" />
+      <workItem from="1691565531912" duration="11952000" />
+      <workItem from="1691640569578" duration="22249000" />
+      <workItem from="1691730482518" duration="17816000" />
+      <workItem from="1691987808842" duration="19958000" />
+      <workItem from="1692074795450" duration="20658000" />
+      <workItem from="1692160946081" duration="10998000" />
+    </task>
+    <task id="LOCAL-00001" summary="i added slugs to all pages, but there is a bug in career, which should be fixed">
+      <created>1691149304194</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691149304194</updated>
+    </task>
+    <task id="LOCAL-00002" summary="some fixes from trello">
+      <created>1691410174380</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691410174380</updated>
+    </task>
+    <task id="LOCAL-00003" summary="some fixes from trello, added city selector, put changes in footer">
+      <created>1691482217444</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691482217444</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added fixes, selector language change">
+      <created>1691556950210</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1691556950210</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added localization for main page">
+      <created>1691582031940</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1691582031940</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added localization for main page">
+      <created>1691582742854</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1691582742854</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added some fixes">
+      <created>1691647522051</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1691647522051</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added fixes including links in Footer.tsx">
+      <created>1691650525265</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1691650525265</updated>
+    </task>
+    <task id="LOCAL-00009" summary="translated 70% of content">
+      <created>1691665781407</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1691665781407</updated>
+    </task>
+    <task id="LOCAL-00010" summary="pulled from i18nexus">
+      <created>1691732027398</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1691732027398</updated>
+    </task>
+    <task id="LOCAL-00011" summary="translated almost all pages, except clubs">
+      <created>1691740208137</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1691740208137</updated>
+    </task>
+    <task id="LOCAL-00012" summary="translated almost all pages, except breadcrumbs">
+      <created>1691750279963</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1691750279963</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added full localization">
+      <created>1691752477139</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1691752477139</updated>
+    </task>
+    <task id="LOCAL-00014" summary="added jsons">
+      <created>1691988181829</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1691988181829</updated>
+    </task>
+    <task id="LOCAL-00015" summary="added some translations, seo requests">
+      <created>1692005384653</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1692005384653</updated>
+    </task>
+    <task id="LOCAL-00016" summary="fix in breadcrumb">
+      <created>1692008466487</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1692008466487</updated>
+    </task>
+    <task id="LOCAL-00017" summary="fixed trello bugs">
+      <created>1692012427206</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1692012427206</updated>
+    </task>
+    <task id="LOCAL-00018" summary="trello fixes">
+      <created>1692082461003</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1692082461003</updated>
+    </task>
+    <task id="LOCAL-00019" summary="some fixes">
+      <created>1692093561972</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1692093561972</updated>
+    </task>
+    <task id="LOCAL-00020" summary="added fixes from trello in clubs, added validation localization">
+      <created>1692176707816</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1692176707817</updated>
+    </task>
+    <task id="LOCAL-00021" summary="added fixes from trello in clubs, added validation localization">
+      <created>1692176740675</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1692176740675</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="i added slugs to all pages, but there is a bug in career, which should be fixed" />
+    <MESSAGE value="some fixes from trello" />
+    <MESSAGE value="some fixes from trello, added city selector, put changes in footer" />
+    <MESSAGE value="added fixes, selector language change" />
+    <MESSAGE value="added localization for main page" />
+    <MESSAGE value="added some fixes" />
+    <MESSAGE value="added fixes including links in Footer.tsx" />
+    <MESSAGE value="translated 70% of content" />
+    <MESSAGE value="pulled from i18nexus" />
+    <MESSAGE value="translated almost all pages, except clubs" />
+    <MESSAGE value="translated almost all pages, except breadcrumbs" />
+    <MESSAGE value="added full localization" />
+    <MESSAGE value="added jsons" />
+    <MESSAGE value="added some translations, seo requests" />
+    <MESSAGE value="fix in breadcrumb" />
+    <MESSAGE value="fixed trello bugs" />
+    <MESSAGE value="trello fixes" />
+    <MESSAGE value="some fixes" />
+    <MESSAGE value="added fixes from trello in clubs, added validation localization" />
+    <option name="LAST_COMMIT_MESSAGE" value="added fixes from trello in clubs, added validation localization" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

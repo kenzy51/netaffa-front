@@ -1,0 +1,39 @@
+body {
+  scroll-behavior: smooth;
+  background: #f8f8f8;
+  max-width: 100vw;
+  width: 100%;
+  min-height: 100vh;
+}
+
+p {
+  word-break: break-all;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: none;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+button {
+  cursor: pointer;
+  background: none;
+}
+
+textarea {
+  resize: none;
+}
+
+ul,
+li {
+  list-style: none;
+}

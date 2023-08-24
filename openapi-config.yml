@@ -1,0 +1,8 @@
+# Configuration for OpenAPI Generator
+npmName: typescript-axios
+npmVersion: 1.0.0
+generatorName: typescript-axios
+inputSpec: https://effafa.com/api/v1/schema/swagger-ui/
+outputDir: src/lib/api/gen
+supportsES6: true
+withInterfaces: true
